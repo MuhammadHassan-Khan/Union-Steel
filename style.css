@@ -1,0 +1,266 @@
+
+/* *{
+    margin: 0px 1px;
+} */
+
+/* navber-Start */
+
+
+.navbar{
+    background-color: black;
+    height: 38px;
+    display: flex;
+    text-transform: uppercase;
+    padding-left: 10px;
+    
+
+    
+}
+.div-1{
+    color: rgb(216, 214, 214);
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+}
+.box{
+    margin-left: 15px;
+
+}
+
+.nav-icon{
+   color: white;
+   margin-left: 10px;
+margin-left: 7PX;
+margin-right:7PX;
+    
+}
+.div-2{
+    display: flex;
+    padding-right: 40px;
+ 
+}
+/* Navbar-End */
+
+
+
+/* Second-Line-Start */
+
+.logo-line{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(207, 206, 207);
+    display: flex;
+    align-items: center;
+   
+   
+}
+ 
+.logo-img{
+    width: 250px;
+}
+.search{
+   padding-left: 25px;
+margin-left: 600px;
+}
+/* Second-Line-End */
+
+
+/* Video-Section-Start */
+
+
+.video{
+width: 100%;
+height: 560px;
+position: relative;
+}
+
+.text{
+    border: 28px solid rgb(255, 153, 0);
+    width: 87%;
+    height: 290px;
+position: absolute;
+   top: 290px;
+   left: 65px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+    
+}
+    .p1{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+        
+    position: absolute;
+    top: 10px;
+    padding-left: 50px;
+    letter-spacing: 4px;
+    }
+    .p2{
+        font-size: 70px;
+        font-weight: bold;
+        margin-top: 40px; 
+        padding-left: 20px;
+        
+    }
+/* Video-Section-End */
+
+/* Para section */
+span{
+    font-size:36px;
+    font-weight: 700;
+}
+button{
+    border: 1PX solid black;
+    height: 40px;
+    width: 100px;
+}
+
+
+/* pic-1 */
+
+.pic-1{
+   border: 5px solid rgb(255, 153, 0);
+   width: 100%;
+   position: absolute;
+}
+.image-1{
+    height: 300px;
+    width: 100%;
+    /* position: absolute; */
+}
+/* WRI */
+.WRI-1{
+    position: relative;
+    top:100PX;
+    left: 60PX;
+    font-size: 10PX;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2PX;
+ 
+display: inline-block;
+
+}.WRI-2{
+    position: relative;
+    top: 100PX; left: 60PX;
+    font-size: 36PX;
+    font-weight: 700;  color: rgb(255, 255, 255);  letter-spacing: 1PX;
+   
+    display: block;
+    display: inline-block;
+}
+
+
+/* second-img */
+
+.image-2{
+    width: 100%;
+    height: 300px;
+    position: absolute;
+}
+section{
+    width: 100%;
+    height: 300px;
+    background-color: slategray;
+    opacity:0.9;
+    position: relative;
+}
+
+.DIDYOU{
+    font-size: 46px;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    color:  rgb(255, 166, 0);
+   display: flex;
+   justify-content: center;
+   padding-top: 120px;
+   text-shadow: 3px 3px 3px 3px rgb(158, 133, 87);;
+}
+
+.see{
+ 
+ background-color: rgb(255, 166, 0);
+ width: 150px;
+ height: 50px;
+    margin-left: 450px;
+    border: none;
+   border-radius: 4px;
+} 
+/* our-products */
+
+.para{
+    font-size: 36px;
+    font-weight: 700;
+    color: rgb(36, 36, 36);
+    text-align: center;
+}
+.para22{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(45,45,45);
+    text-align: center;
+}
+
+.card1{
+    border: 1px solid gray;
+    width: 85%;
+    height: 1200PX;
+    margin: auto;
+    margin-top: 70PX;
+
+}
+
+.img11{
+    border-radius: 50%;
+ margin-left: 45px
+}
+
+
+.pp{
+    font-size: 29px;
+    text-align: center;
+
+}
+.stro{
+    font-size: 29px;
+   display: flex;
+   justify-content: center;
+   margin-bottom: 25px;
+
+}
+
+.p12{
+    text-align: justify;
+    text-align: center;
+}
+
+.but{
+  
+    background-color: transparent;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    margin-left: 370px;
+}
+
+footer{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(68, 68, 68);
+
+}
+.p14{
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 470px;
+    color: rgba(255, 255, 255, 0.8) ;
+}
+.p15{
+    font-size: 46px;
+    font-weight: 800;
+   
+    color: rgba(255, 255, 255, 0.8) ;
+    text-align: center;
+}
+
+
